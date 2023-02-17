@@ -1,0 +1,102 @@
+/*
+****************************************************************************************************************************
+Author: Pratik More
+Description: it is used to style the Form
+Version: 0.1
+Website: https://pratikmore.com
+Linkedin: www.linkedin.com/in/pratikmore2796
+For any Queries or need to connect please contact me on below ID or You can Book an appointment from https://pratikmore.om
+Email: developer@pratikmore.com
+****************************************************************************************************************************
+
+Note: If you are using this form the read the Bootstrap Documentation first about flex, row & columns,
+This project is fully created for helping the small Businesses that will never require any subscriptions
+and all.
+The SVG used in this image is open source Please Check https://undraw.co/ for more detail Created by Katerina Limpitsouni
+The FPDF License is open source please read http://www.fpdf.org/en/FAQ.php Author Description is Given in FPDF.php 
+FOR Quilljs License visit https://github.com/quilljs/quill/blob/develop/LICENSE 
+This Page can only be used by business who purchase this product and can be modified as needed.
+Mention the Author and Website in your code This will encourage me to create mer project like this
+
+
+!Built with Passion!
+****************************************************************************************************************************
+*/
+*{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+}
+
+.formpdf{
+    justify-content: center;
+    text-align: center;
+    padding:20px;
+    /* background-color:#171E20; */
+    
+}
+#CreatecontractForm{
+    text-align: left;
+    justify-content: center;
+}
+.lable-text{
+    font-size: 20px;
+    font-weight: 700;
+    
+
+}
+
+.formimage{
+    height: 100%;
+    width: 100%;
+    align-content: space-between;
+}  
+.heading{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    padding: 30px;
+}
+.normalFont{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    padding: 20px;
+}
+.formfonts{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+img{
+  padding: 20px;
+}
+/* Font Collections It is given in Documentation of Quilli */
+/* Set default font-family */
+#editor-container {
+    font-family: "Aref Ruqaa";
+    font-size: 18px;
+    height: 375px;
+  }
+  /* Set dropdown font-families */
+  #toolbar-container .ql-font span[data-label="Aref Ruqaa"]::before {
+    font-family: "Aref Ruqaa";
+  }
+  #toolbar-container .ql-font span[data-label="Mirza"]::before {
+    font-family: "Mirza";
+  }
+  #toolbar-container .ql-font span[data-label="Roboto"]::before {
+    font-family: "Roboto";
+  }
+  
+  #toolbar-container .ql-font span[data-label="Dancing Script"]::before {
+    font-family: 'Dancing Script';
+  }
+  
+  /* Set content font-families */
+  .ql-font-mirza {
+    font-family: "Mirza";
+  }
+  .ql-font-roboto {
+    font-family: "Roboto";
+  }
+  /* We do not set Aref Ruqaa since it is the default font */
