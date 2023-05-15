@@ -1,18 +1,20 @@
-##Features:
-1) Built on Vanilla JS and PHP.
-2) Modifiable and can be integrated with any existing system!
-3) Generate PDF and Download
-4) Can be used as a Webhook or public page of your site 
-##Use
-=> Add this page to your system and get content from database details such as T&C.
-=> Create a webhook and send this contract directly to the customer to sign
-=> Modify the php backend file and create a copy to in your DB and public folder so accessible from anywhere
-##Advantages
-=> Can be added to any existing system
-=> Reduce Cost of business by eleminating the subscription plans or unnecessary expensive tools
-=> Gain the Trust of customers as customers can download the pdf and you can also get a copy in your system
-=> Modify the PDF look according to your need!
-##Disadvantages
-=> I'm a little bit lazy to give you DB code as well so you need to add it!
+The Vanilla JS and PHP-based system is a versatile and customizable solution that can be seamlessly integrated into any existing system. It offers the ability to generate PDF files and enable their download. Whether used as a webhook or a public page on your website, this system provides various benefits and advantages for startups or small businesses.
 
-#It's for Startups or small businesses 
+# Features:
+
+    Modifiable and Integration-Friendly: The system can be easily modified and integrated into any existing system, allowing for seamless implementation with your current infrastructure.
+    PDF Generation and Download: Generate PDF files dynamically and provide users with the option to download them. This feature enhances the convenience and accessibility of important documents.
+    Webhook and Public Page Usage: Incorporate this system as a webpage in your existing system to retrieve content from database details, such as terms and conditions. Additionally, leverage the system as a webhook to send contracts directly to customers for signing.
+    Backend Customization: Modify the PHP backend file according to your specific requirements. Create a copy in your database and public folder, making the system accessible from anywhere.
+
+# Advantages:
+
+    Seamless Integration: Easily add the system to any existing infrastructure without incurring additional costs or requiring expensive tools. This reduces the overall cost of business operations.
+    Customer Trust: Enhance customer trust by providing them with the ability to download PDF contracts. Simultaneously, keep a copy of the contract in your system for reference and record-keeping purposes.
+    Customizable PDF Look: Tailor the appearance of the generated PDF files to align with your brand or specific design preferences, ensuring a cohesive visual identity.
+
+# Disadvantages:
+
+    Database Code Not Provided: As a small drawback, the specific database code for integration is not included. This necessitates manual addition of the code to your system.
+
+This system is designed to empower startups and small businesses, providing them with a flexible, cost-effective, and trustworthy solution for generating, downloading, and managing PDF contracts. By eliminating the need for subscription plans or expensive tools, this system optimizes operations and enhances customer satisfaction.
